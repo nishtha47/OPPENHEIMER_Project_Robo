@@ -19,10 +19,12 @@ http://localhost:8080/swagger-ui.html
 
 ### How to run the Regression
 
-###### Run the Mavne Java project
+###### Run the Maven Java project
 ```
 $ mvn clean test  
 
 ```
 
-#### Running this test scenarios by executing Testrunner
+#### Running this test scenarios
+
+Execute TestsRunner under C:\Users\NISHTHA MISHRA\OneDrive\Desktop\techch-master\OPPENHEIMER_Project_Java\src\test\java\runner in IDE
